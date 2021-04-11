@@ -1,5 +1,5 @@
 {
-  "name": "jtgrimes/laravel-db2-bridge",
+  "name": "lalbini/laravel-db2-bridge",
   "type": "library",
   "description": "Brings Laravel's database tools and Eloquent models to db2",
   "keywords": [
